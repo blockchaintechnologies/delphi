@@ -79,8 +79,27 @@
       },
       "updated_at": 1499202284972,
       "address": "0x58f0e93e51ff2deb4cf0f6e64e1a62fab0529471"
+    },
+    "1499350868115": {
+      "events": {
+        "0x86803afb0a31ad5a3a3181be6110cbfbbf882afb4d684d395ae6a70ea3603db5": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": false,
+              "name": "",
+              "type": "uint256"
+            }
+          ],
+          "name": "NumTokens",
+          "type": "event"
+        }
+      },
+      "links": {},
+      "address": "0x9c17a56596deb91628751c644283a67cf52bee0c",
+      "updated_at": 1499350880809
     }
   },
   "schema_version": "0.0.5",
-  "updated_at": 1499319792072
+  "updated_at": 1499350880809
 }
