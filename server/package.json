@@ -1,0 +1,16 @@
+{
+  "name": "ticker_server",
+  "version": "1.0.0",
+  "description": "Should get ticker data and write it to a Ethereum contract",
+  "main": "main.js",
+  "scripts": {
+    "test": "babel-node --presets es2015 main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "socket.io-client": "^2.0.3",
+    "truffle-contract": "^2.0.1"
+  }
+}
